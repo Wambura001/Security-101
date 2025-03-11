@@ -11,7 +11,7 @@ In this rapidly changing age of AI technology adoption, it is even more critical
 
 ![Cybersecurity for Beginners](images/banner.jpg)
 
-What this course covers 📚
+What this course covers 📚 
 
 - 🔐 Basic cyber security concepts such as the CIA triad, the differences between risks, threats, etc,
 - 🛡️ Understanding what a security control is and what forms they take.
